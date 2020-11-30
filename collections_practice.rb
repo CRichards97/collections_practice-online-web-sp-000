@@ -44,7 +44,7 @@ end
 end
 
 
-  
+
   # using inject method (long)
      # array.inject do |sum,x|
      #  sum + x
